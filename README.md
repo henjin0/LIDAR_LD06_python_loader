@@ -1,4 +1,4 @@
-# LIDAR_LD06_python_loder
+# LIDAR_LD06_python_loader
 LDROBOT社から提供されているLidarのLD06(LDS06)をpythonから使えるようにしてみました。このサンプルコードは取得した点群をリアルタイムにmatplotlibにて表示します。
 
 # つかいかた
